@@ -65,6 +65,18 @@ To monitor your sleep patterns:
 - Enter your sleep duration and quality rating.
 - Click "Save" to record your sleep data. 🛌
 
+
+
+## Collaboration
+
+HealthTrack allows users to collaborate with friends and family on health goals. Here are some features:
+
+| Feature           | Description                                                   |
+|-------------------|---------------------------------------------------------------|
+| Shared Goals      | Work together on health objectives and track progress as a team.|
+| Meal Planning     | Collaborate on meal plans and share recipes with others.       |
+| Workout Buddies   | Connect with friends for joint workout sessions and motivation.|
+
 ## Troubleshooting
 
 If you encounter any issues while using HealthTrack, refer to the following common problems and solutions:
