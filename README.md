@@ -127,5 +127,5 @@ weekly_meal_plan()
 
 Below is a screenshot of the HealthTrack user interface:
 
-![HealthTrack User Interface](healthtrack_screenshot.png "HealthTrack Screenshot")
+![Alt text](https://i.pinimg.com/736x/d3/23/82/d32382bb9e52ab40dcd3e26fd57374cd.jpg)
 
